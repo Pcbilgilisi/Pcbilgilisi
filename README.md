@@ -2,7 +2,7 @@
 - 👀 I’m interested in History,Software,Linux
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on open source software projects, simple web applications and Linux distribution documentation.
-- 📫 How to reach me Discord:pcbilgilisi Revolt:Pcbilgilisi#5446 Matrix:@pcbilgilisi:matrix.org
+- 📫 How to reach me Discord:pcbilgilisi Revolt:Pcbilgilisi#5446 Matrix:@pcbilgilisi:matrix.org Escargot MSN:pcbilgilisi1@escargot.chat
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My Archiso adventure ended with me filling the disk and deleting Endeavor OS.
 
